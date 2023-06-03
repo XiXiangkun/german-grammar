@@ -36,9 +36,15 @@
 | 第四格 | einen    | ein      | eine     | -       |
 
 * 第一格【主格】：主语、表语（主系表中的，主语补足语，用于补充说明主语）
+  * Wo ist der Bahnhof ?
+
 * 第二格【属格】：表示属于谁，类似英语中的of
 * 第三格【受格】：间接宾语，不是动作的直接承受者
+  * Das Café ist vor dem Bahnhof.
+
 * 第四格【宾格】：宾语
+  * Ich suche den Bahnhof.
+
 
 不定冠词的格式完全跟随定冠词
 
