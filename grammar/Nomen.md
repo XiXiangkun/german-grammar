@@ -19,21 +19,21 @@
 
 #### 名词格【定冠词】
 
-|        | 阳性 der | 中性 das | 阴性 die | 复数die |
-| ------ | -------- | -------- | -------- | ------- |
-| 第一格 | der      | das      | die      | die     |
-| 第二格 | des      | des      | der      | der     |
-| 第三格 | dem      | dem      | der      | den     |
-| 第四格 | den      | das      | die      | die     |
+|                   | 阳性 der | 中性 das | 阴性 die | 复数die |
+| ----------------- | -------- | -------- | -------- | ------- |
+| 第一格 Nominative | der      | das      | die      | die     |
+| 第二格 Genitiv    | des      | des      | der      | der     |
+| 第三格 Dativ      | dem      | dem      | der      | den     |
+| 第四格 Akkusative | den      | das      | die      | die     |
 
 #### 名词格【不定冠词】
 
-|        | 阳性 der | 中性 das | 阴性 die | 复数die |
-| ------ | -------- | -------- | -------- | ------- |
-| 第一格 | ein      | ein      | eine     | -       |
-| 第二格 | eins     | eins     | einer    | -       |
-| 第三格 | einem    | einem    | einer    | -       |
-| 第四格 | einen    | ein      | eine     | -       |
+|                   | 阳性 der | 中性 das | 阴性 die | 复数die |
+| ----------------- | -------- | -------- | -------- | ------- |
+| 第一格 Nominative | ein      | ein      | eine     | -       |
+| 第二格 Genitiv    | eins     | eins     | einer    | -       |
+| 第三格 Dativ      | einem    | einem    | einer    | -       |
+| 第四格 Akkusative | einen    | ein      | eine     | -       |
 
 * 第一格【主格】：主语、表语（主系表中的，主语补足语，用于补充说明主语）
   * Wo ist der Bahnhof ?

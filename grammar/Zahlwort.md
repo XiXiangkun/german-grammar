@@ -42,16 +42,47 @@ Heute ist der zweite June.
 | ------ | ------- | ------- | ------- | -------- |
 | Einmal | zweimal | dreimal | vielmal | manchmal |
 
+待补充
+
+#### 分配数词
+
+待补充
+
+#### 时间表达
+
+* 年份、日期
+
+  * 德语的年份数字单独使用就可以表示在N年，或者是in Jahr 2023
+  * `3. Juni 2023`（der dritte Juni 2023）
+  * 在某一天，使用介词an
+
+* 四季、月份
+
+  | 春       | 夏     | 秋     | 冬     | 例        |
+  | -------- | ------ | ------ | ------ | --------- |
+  | Frühling | Sommer | Herbst | Winter | im Herbst |
+
+  | 一月   | 2月     | 3月  | 4月   | 5月  | 6月  | 7月  | 8月    | 9月       | 10月    | 11月     | 12月     | 例      |
+  | ------ | ------- | ---- | ----- | ---- | ---- | ---- | ------ | --------- | ------- | -------- | -------- | ------- |
+  | Januar | Februar | März | April | Mai  | Juni | Juli | August | September | Oktober | November | Dezember | im  Mai |
+
+* 周、日
+
+  | 周日    | 周一   | 周二     | 周三     | 周四       | 周五    | 周六    | 例        |
+  | ------- | ------ | -------- | -------- | ---------- | ------- | ------- | --------- |
+  | Sonntag | Montag | Dienstag | Mittwoch | Donnerstag | Freitag | Samstag | am Montag |
+
+  | 早        | 上午         | 中午      | 下午          | 傍晚     | 半夜         |
+  | --------- | ------------ | --------- | ------------- | -------- | ------------ |
+  | am Morgen | am Vormittag | am Mittag | am Nachmittag | am Abend | in der Nacht |
+
+* 时间
+
+  * 10.00 um zehn Uhr
+  * 09.45 Viertel vor zehn，10.15 Viertel nach zehn
+  * 10.30 halb elf，也可以使用类似英语的方式 zehn Uhr dreißig
+  * Wie spät ist es? 现在是几点？Es ist zehn Uhr dreißig.
 
 
 
-
-
-
-
-
-
-
-
-
-[返回目录](../README.md) [上一节 名词](Nomen.md) [下一节 代词](Zahlwort.md)
+[返回目录](../README.md) [上一节 名词](Nomen.md) [下一节 代词](Pronomen.md)
