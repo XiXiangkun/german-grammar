@@ -33,12 +33,29 @@
 
 * in + Dativ
   * 回答Wann 什么时候 现在到未来的某个时刻
-  * in einem Monat
-  * <font color=blue>Monat</font>
-  * <font color=green>Jahr</font>
-  * <font color=red>Stunde 小时</font>
-* vor + Dativ
+  * in einem <font color=blue>Monat、Tag</font>
+  * in einem <font color=green>Jahr</font>
+  * in einer <font color=red>Woche、Stunde 小时、Minite、Sekunde 秒</font>
+  * Ich komme in vier Tage.
+* vor/nach + Dativ
+  * 回答Wann 什么时候 某个时间点之前/后
+  * vor dem <font color=blue>Kurs</font>
+  * nach dem <font color=blue>Essen</font>
+  * Ich komme nach der Uni.
+
 * für + Akkusativ
+  * 回答Wie lange 多久 持续多久
+  * für einen <font color=blue>Monate、Tag</font>
+  * für ein <font color=green>Jahr</font>
+  * für eine <font color=red>Woche、Stunde、Minute、Sekunde</font>
+
+
+### 7.3 with/without
+
+* mit + Dativ
+  * mit dem Brille
+* ohne + Akksativ
+  * ohne den Brille
 
 zu bis 
 
