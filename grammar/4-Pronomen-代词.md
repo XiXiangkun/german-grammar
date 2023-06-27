@@ -1,6 +1,6 @@
 ## 4. 代词 Pronomen
 
-#### 人称代词
+#### 4.1 人称代词
 
 * 人称代词作主语（第一格，Nominative）：
 
@@ -34,11 +34,11 @@
 
   * Vormittag habe ich dich im Büro gesehen. 
 
-#### 反身代词
+#### 4.2 反身代词
 
 * 待补充
 
-#### 物主代词
+#### 4.3 物主代词
 
 * 形容词性物主代词
 
@@ -94,4 +94,4 @@
 
 
 
-[返回目录](../README.md) [上一节 数词](3-Zahlwort-数词.md) [下一节 形容词](5-Adjektiv-形容词.md)
+[返回目录](../README.md) [上一节 3. Zahlwort-数词](3-Zahlwort-数词.md) [下一节 5. Adjektiv-形容词](5-Adjektiv-形容词.md)

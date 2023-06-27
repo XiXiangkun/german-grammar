@@ -24,4 +24,4 @@
 
 
 
-[返回目录](../README.md) [上一节 形容词](5-Adjektiv-形容词.md) [下一节 介词](7-Präposition-介词.md)
+[返回目录](../README.md) [上一节 5. Adjektiv-形容词](5-Adjektiv-形容词.md) [下一节 7. Präposition-介词](7-Präposition-介词.md)
