@@ -2,7 +2,7 @@
 
 ### 7.1 空间方位
 
-* 表示方位的介词+第三格Dativ
+* 回答Wo，表示方位的介词+第三格Dativ
 
 `über` 在上方不接触；`auf `在上方
 
@@ -56,6 +56,32 @@
   * mit dem Brille
 * ohne + Akksativ
   * ohne den Brille
+
+### 7.4 去往地点
+
+* zu + Dativ
+
+  * 回答Wohin 去哪
+  * zum Bahnhof
+  * 去往小地点、去某人那里
+
+* nach
+
+  * 回答Wohin去哪
+  * nach Paris
+
+* in
+
+  * 回答Wohin去哪
+  * in den Supermarkt / in die Türkei
+  * 室内场所、街道、山、die属性的Land
+
+* 固定搭配
+
+  * in die Stadt
+  * 
+
+  
 
 zu bis 
 
