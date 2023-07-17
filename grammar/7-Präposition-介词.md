@@ -2,7 +2,7 @@
 
 ### 7.1 空间方位
 
-* 回答Wohin，动态表示方位的介词+第四格Akkusativ
+* 回答Wohin，动态表示方位的介词+第四格Akkusativ，**an**到...旁边去
 * 回答Wo，表示方位的介词+第三格Dativ
 
 `über` 在上方不接触；`auf `在上方
@@ -44,7 +44,7 @@
   * nach dem <font color=blue>Essen</font>
   * Ich komme nach der Uni.
 
-* für + Akkusativ
+* **für** + Akkusativ
   * 回答Wie lange 多久 持续多久
   * für einen <font color=blue>Monate、Tag</font>
   * für ein <font color=green>Jahr</font>
@@ -55,7 +55,7 @@
 
 * mit + Dativ
   * mit dem Brille
-* ohne + Akksativ
+* **ohne** + Akksativ
   * ohne den Brille
 
 ### 7.4 去往地点
