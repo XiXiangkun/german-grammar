@@ -14,17 +14,19 @@
 
 #### 3.2 序数词
 
-* 第一、第三单独记忆
-
-* 20以内的基数词加“te”，acht直接加“e”，20起加“ste”
+* 20以内的基数词加“te”，20起加“ste”
 
 | 第一  | 第二   | 第三   | 第十三     | 第二十三          |
 | ----- | ------ | ------ | ---------- | ----------------- |
 | erste | zweite | dritte | dreizehnte | dreiundzwanzigste |
 
-der erste Apfel
-
-Heute ist der zweite June.
+- 例句
+  - Der wievielte is heute? / war gestern?
+    - Heute ist der siebzehnte Juli.
+  - Wann hast du Geburtstag?
+    - Ich habe am siebzehnten Juli.
+  - Wann seid ihr umgezogen?
+    - vom sibzehnten Juli bis archtzehnten Juli
 
 * 序数词与物主代词连用，作为形容词时，需要变化，待补充
 
@@ -82,6 +84,7 @@ Heute ist der zweite June.
   * 09.45 Viertel vor zehn，10.15 Viertel nach zehn
   * 10.30 halb elf，也可以使用类似英语的方式 zehn Uhr dreißig
   * Wie spät ist es? 现在是几点？Es ist zehn Uhr dreißig.
+  * im November / am siebzehnten November
 
 
 
