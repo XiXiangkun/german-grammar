@@ -3,7 +3,11 @@
 ### 7.1 空间方位
 
 * 回答Wohin，动态表示方位的介词+第四格Akkusativ，**an**到...旁边去
+  * Wohin stelle ich den Kasten?
+
 * 回答Wo，表示方位的介词+第三格Dativ
+  * Wo stellt der Kasten?
+
 
 `über` 在上方不接触；`auf `在上方
 
@@ -14,6 +18,10 @@
 立方体 Würfel；三棱锥 Pyramide；圆柱 Stab
 
 <img src="../pictures/方位.jpeg" alt="IMG_37A059B32C57-1" style="zoom:33%;" />
+
+- 介词+Dativ/Akkusativ的场景
+
+<img src="../pictures/介词.jpeg" alt="IMG_37A059B32C57-1" style="zoom:33%;" />
 
 * 例句（der Bahnhof）
   * Wo ist der Bahnhof?
