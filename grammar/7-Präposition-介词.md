@@ -51,12 +51,28 @@
   * vor dem <font color=blue>Kurs</font>
   * nach dem <font color=blue>Essen</font>
   * Ich komme nach der Uni.
-
 * **für** + Akkusativ
   * 回答Wie lange 多久 持续多久
   * für einen <font color=blue>Monate、Tag</font>
   * für ein <font color=green>Jahr</font>
   * für eine <font color=red>Woche、Stunde、Minute、Sekunde</font>
+* von bis zu + Dativ
+  * 回答Wie lange持续多久
+  * vom dem achten bis zum aehnten Juli 从7月8号到10号
+
+* seit + Dativ
+  * 回答Seit wann 从过去什么时候开始
+  * seit 1997
+
+* ab + Dativ
+  * 回答Ab wann从未来什么时候开始
+  * von Morgen an
+  * vom achten Juli an这里vom表示从..的，7月的8号，所以有dem
+
+* über + Akksativ
+  * 回答Wie lange持续多久
+  * länger / mehr als / über 30 Jahre
+
 
 
 ### 7.3 with/without
