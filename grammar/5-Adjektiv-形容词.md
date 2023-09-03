@@ -15,7 +15,23 @@
 | Feminin  | e         |      | en    | e         |
 | Plural   | en        |      | en    | en        |
 
+- Nominativ
+  - Er ist der disziplinierte Mann.
+  - Er ist das disziplinierte Kind.
+  - Sie ist die disziplinierte Frau.
+  - Sie sind die disziplinierten Leute.
 
+- Dativ
+  - Ich studiere mit dem disziplinierten mann.
+  - Ich studiere mit dem disziplinierten Kind.
+  - Ich studiere mit der disziplinierten Frau.
+  - Ich studiere mit den disziplinierten Leuten.
+
+- Akkusativ
+  - Ich suche den disziplinierten Mann.
+  - Ich suche das disziplinierte Kind.
+  - Ich suche die disziplinierte Frau.
+  - Ich suche die disziplinierten Leute.
 
 #### 5.1.2 强变化
 
@@ -28,7 +44,23 @@
 | Feminin  | e         |      | er    | e         |
 | Plural   | e         |      | en    | e         |
 
+- Nominativ
+  - guter Fisch
+  - gutes Fleisch
+  - gute Limonade
+  - gute Leute
 
+- Dativ
+  - mit gutem Fisch
+  - mit gutem Fleisch
+  - mit guter Limonade
+  - mite guten Leuten
+
+- Akkusativ
+  - Ich möchte guten Fisch.
+  - Ich möchte gutes Fleisch.
+  - Ich möchte gute Limonade.
+  - Ich möchte gute Leute.
 
 #### 5.1.3 混合变化
 
@@ -43,7 +75,23 @@
 | Feminin  | e         |      | **en** | e         |
 | Plural   | **en**    |      | **en** | **en**    |
 
+- Nominativ
+  - Er ist ein disziplinierter Mann.
+  - Er ist ein diszipliniertes Kind.
+  - Sie ist eine disziplinierte Frau.
+  - Sie sind disziplinierten Leute.
 
+- Dativ
+  - Ich studiere mit einem disziplinierten mann.
+  - Ich studiere mit einem disziplinierten Kind.
+  - Ich studiere mit einer disziplinierten Frau.
+  - Ich studiere mit disziplinierten Leuten.
+
+- Akkusativ
+  - Ich suche einen disziplinierten Mann.
+  - Ich suche ein diszipliniertes Kind.
+  - Ich suche eine disziplinierte Frau.
+  - Ich suche disziplinierten Leute.
 
 ### 5.2 比较级、最高级
 

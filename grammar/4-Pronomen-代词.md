@@ -56,12 +56,12 @@
 | die    |      |      |      |      |      |      |      |                |
 | die pl |      |      |      |      |      |      |      |                |
 
-| 第三格      | 我     | 你     | 他     | 她    | 它     | 我们    | 你们  | Sie   |
-| ----------- | ------ | ------ | ------ | ----- | ------ | ------- | ----- | ----- |
-| der(dem)    | meinem | deinem | seinem | ihrem | seinem | unserem | euerm | Ihrem |
-| das(dem)    | meinem | deinem | seinem | ihrem | seinem | unserem | euerm | Ihrem |
-| die(der)    | meiner | deiner | seiner | ihrer | seiner | unserer | eurer | Ihrer |
-| die.pl(den) | meinen | deinen | seinen | ihren | seinen | unseren | euren | Ihren |
+| 第三格      | 我     | 你     | 他     | 她    | 它     | 我们    | 你们   | Sie   |
+| ----------- | ------ | ------ | ------ | ----- | ------ | ------- | ------ | ----- |
+| der(dem)    | meinem | deinem | seinem | ihrem | seinem | unserem | euerem | Ihrem |
+| das(dem)    | meinem | deinem | seinem | ihrem | seinem | unserem | euerem | Ihrem |
+| die(der)    | meiner | deiner | seiner | ihrer | seiner | unserer | eurer  | Ihrer |
+| die.pl(den) | meinen | deinen | seinen | ihren | seinen | unseren | euren  | Ihren |
 
 * Was hast du deinen Kindern in Berlin gekauft?
 
